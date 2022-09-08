@@ -6,7 +6,7 @@ This project was given during the data structure course, and its aim was to impl
 ### What is Trie Tree?
 Strings are one of the most fundamental data types and have a usage in many various applications. There are many data structures to properly store strings as well. One of these data structures is the Trie tree. Tries store strings based on their prefix in a tree-based manner. Each node represents a letter in English and so there can be at most 26 edges between two nodes. Below you can see how string retrieval can be done using Tries.
 
-<img src="pic.PNG" width="50%">
+<img src="pic.png" width="50%">
 
 
 ### Application
