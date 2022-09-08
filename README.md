@@ -17,6 +17,8 @@ The fact that Tries work with string prefixes making them a sufficient choice fo
 To implement this data structure, I first defined a node class that contains all the attributes and functions related to each node. Then, a Trie Tree class is defined to manage the essential operations such as inserting, deleting, etc. Finally, my implementation was capable of storing and retrieving about 200 words in a reasonable time, less than 2 seconds.
 
 ## Refrences
+
 https://www.toptal.com/java/the-trie-a-neglected-data-structure
+
 https://www.aleksandrhovhannisyan.com/blog/trie-data-structure-implementation-in-python/
 
